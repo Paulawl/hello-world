@@ -1,2 +1,1 @@
-# hello-world
-Hello World in C++
+Hey I'm Paul this is my first time using github to store my own content. I'm a IT graduate from UMass Lowell in 2016 previously a CS major that just got a little tired of school. I'm beginning to concentrate more on programming again after taking a break for it and this is my start with github. I'll be storing all personally made projects here from now on.
